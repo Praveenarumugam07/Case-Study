@@ -1,0 +1,23 @@
+# ========================
+# Spring Boot (Maven)
+# ========================
+ecommerce-backend/target/
+ecommerce-backend/.mvn/
+ecommerce-backend/*.log
+
+# ========================
+# Angular / Node
+# ========================
+ecommerce-frontend/node_modules/
+ecommerce-frontend/dist/
+ecommerce-frontend/.angular/
+
+# ========================
+# IDE / OS
+# ========================
+.vscode/settings.json
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.class
